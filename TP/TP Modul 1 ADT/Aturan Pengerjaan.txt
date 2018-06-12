@@ -1,0 +1,21 @@
+
+				   =============================================
+					ATURAN PENGERJAAN TUGAS PENDAHULUAN
+				   =============================================
+
+1. Pastikan NIM anda adalah NIM yang bernilai GENAP sebelum mengerjakan Tugas Pendahuluan ini
+
+2. Kerjakan di kertas A4 dengan format margin 2 2 2 2, ditulis tangan dan sertakan (print out) screenshot hasil running program
+
+3. Sertakan cover TP IFLAB yang sudah diisi sesuai Kelas, Nama, dan NIM menjadi lembar pertama pengerjaan Tugas Pendahuluan
+
+4. Dilarang mengubah file header dan main pada soal
+
+5. Di akhir pengerjaan, tulis pernyataan berikut pada lembar jawaban:
+       +=============================================================================================+
+       | "Saya mengerjakan tugas ini dengan jujur dan tidak melakukan pelanggaran aturan dari IFLAB. |
+       |  Jika saya terbukti melanggar, maka saya bersedia menerima sanksi yang berlaku."            |
+       +=============================================================================================+
+   Jika pernyataan tidak ditulis, maka nilai tugas pendahuluan sama dengan 0 (nol).
+
+6. Tugas dikumpulkan paling lambat hari Senin (5 September 2016) pukul 07.00 WIIFLAB di loker cokelat depan lab TA (Gd. F Lt. 1)

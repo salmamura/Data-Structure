@@ -1,0 +1,8 @@
+ATURAN PENGERJAAN
+
+1. Aturan umum sama seperti aturan sebelumnya.
+2. Link unggah : http://bit.ly/TP_TREE
+3. Ikuti langkah pengerjaan yang ada di comment mtree.c
+4. SS hasil pengerjaan dan letakkan di awal file word sebelum source code.
+5. Aturan yang tidak diindahkan dapat menyebabkan nilai yang tidak diindahkan pula.
+6. Tidak mengerjakan TP dianggap dispen. (Dianggap hadir, tidak ada nilai).

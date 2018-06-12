@@ -1,0 +1,46 @@
+
+				   =============================================
+					ATURAN PENGERJAAN TUGAS PENDAHULUAN
+				   =============================================
+
+1. File header dan driver tidak diberikan secara langsung, bagi yang butuh dapat membaca petunjuk pembuatan file header & driver (di bawah)
+
+2. Beri komen diatas #include ... pada tiap kodingan dengan menggunakan NIM dan Nama
+
+3. Source code DIKETIK ke word dengan font Courier New
+
+4. Sertakan Screenshot program pada word
+
+5. Dilarang mengubah file header dan driver pada soal
+
+6. Dilarang melakukan copy file / code text (plagiarisme)
+
+7. Di akhir pengerjaan, tulis pernyataan berikut pada lembar jawaban:
+
+	+=============================================================================================+
+	| "Saya mengerjakan tugas ini dengan jujur dan tidak melakukan pelanggaran aturan dari IFLAB. |
+	|  Jika saya terbukti melanggar, maka saya bersedia menerima sanksi yang berlaku."            |
+	+=============================================================================================+
+
+8. file word beri nama dengan FORMAT QUEUE_NIM_NAMA
+
+9. Kirim file ke google drive "http://bit.ly/TP_LISTREKURSIF" sebelum hari Senin tanggal 14 November 2016 Pukul 07.00 WIFLAB
+
+NB : Semua aturan di atas bersifat WAJIB. Apabila terdapat kekurangan dari poin-point di atas maka asprak berhak memberikan pengurangan nilai
+
+
+
+			=== PETUNJUK PEMBUATAN FILE HEADER & DRIVER PADA CODEBLOCKS ===
+
+1. Klik New File pada toolbar, lalu pilih Project, atau
+   Pada Menu Bar pilih : File -> New -> Project
+
+2. Lalu akan muncul pilihan untuk memilih wizard type (pada bagian kanan), pilih Files
+
+3. Pilih C/C++ header
+
+4. Klik Next, lalu tentukan nama dan lokasi untuk menyimpan file header (tidak perlu mengisi/edit Header guard word)
+
+5. Klik Finish, header file akan langsung terbuka
+
+Untuk pembuatan Driver (Main) File sama seperti pembuatan file.c biasanya (New File -> Empty File)

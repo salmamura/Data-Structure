@@ -1,0 +1,6 @@
+Buatlah sebuah program yang melakukan pembalikan terhadap kalimat dengan menggunakan stack
+Contoh:
+Kalimat : Struktur Data
+Hasil setelah dibalik : ataD rutkurtS
+
+Buatlah kodingan header, body, driver dan cantumkan hasil running program

@@ -1,0 +1,101 @@
+|				TABEL DATA PEMESAN			    |
+|---------------------------------------------------------------------------|
+| No |	Nama pemesan	|	No meja	|	No menu	|
+| 1  |	Salma Mura	|	1	|	3	|
+| 2  |	Cornelia Regina	|	5	|	1	|
+| 3  |	Cornelia Regina	|	5	|	4	|
+| 4  |	Sinta Maharani	|	3	|	7	|
+| 5  |	Sinta Maharani	|	3	|	2	|
+| 6  |	Diva Viveka	|	7	|	3	|
+
+|---------------------------------------------------------------------------|
+|				TABEL DATA PEMESAN			    |
+|---------------------------------------------------------------------------|
+| No |	Nama pemesan	|	No meja	|	No menu	|
+| 1  |	Salma Mura	|	1	|	3	|
+| 2  |	Cornelia Regina	|	5	|	1	|
+| 3  |	Cornelia Regina	|	5	|	4	|
+| 4  |	Sinta Maharani	|	3	|	7	|
+| 5  |	Sinta Maharani	|	3	|	2	|
+| 6  |	Diva Viveka	|	7	|	3	|
+| 7  |	Erliansyah	|	10	|	1	|
+| 8  |	Erliansyah	|	10	|	3	|
+| 9  |	Erliansyah	|	10	|	6	|
+
+|---------------------------------------------------------------------------|
+	LAPORAN PENJUALAN
+NO. NAMA PEMESAN	ALAMAT		NOMOR Meja
+1. Erliansyah		bandung			10
+
+
+
+TOTAL HARGA = RP43000,00
+
+
+MENU	JUMLAH YANG TERJUAL
+	 1 =	1
+	 2 =	0
+	 3 =	1
+	 4 =	0
+	 5 =	0
+	 6 =	1
+	 7 =	0
+|				TABEL DATA PEMESAN			    |
+|---------------------------------------------------------------------------|
+| No |	Nama pemesan	|	No meja	|	No menu	|
+| 1  |	Salma Mura	|	1	|	3	|
+| 2  |	Cornelia Regina	|	5	|	1	|
+| 3  |	Cornelia Regina	|	5	|	4	|
+| 4  |	Sinta Maharani	|	3	|	7	|
+| 5  |	Sinta Maharani	|	3	|	2	|
+| 6  |	Diva Viveka	|	7	|	3	|
+
+|---------------------------------------------------------------------------|
+	LAPORAN PENJUALAN
+NO. NAMA PEMESAN	ALAMAT		NOMOR Meja
+1. Erliansyah		bandung			10
+2. Sinta Maharani		Pare			3
+
+
+
+TOTAL HARGA = RP78000,00
+
+
+MENU	JUMLAH YANG TERJUAL
+	 1 =	1
+	 2 =	1
+	 3 =	1
+	 4 =	0
+	 5 =	0
+	 6 =	1
+	 7 =	1
+|				TABEL DATA PEMESAN			    |
+|---------------------------------------------------------------------------|
+| No |	Nama pemesan	|	No meja	|	No menu	|
+| 1  |	Salma Mura	|	1	|	3	|
+| 2  |	Cornelia Regina	|	5	|	1	|
+| 3  |	Cornelia Regina	|	5	|	4	|
+| 4  |	Diva Viveka	|	7	|	3	|
+| 5  |	Udinnnnnnn	|	8	|	2	|
+| 6  |	Udinnnnnnn	|	8	|	2	|
+
+|---------------------------------------------------------------------------|
+	LAPORAN PENJUALAN
+NO. NAMA PEMESAN	ALAMAT		NOMOR Meja
+1. Erliansyah		bandung			10
+2. Sinta Maharani		Pare			3
+3. Udinnnnnnn		cbhecb			8
+
+
+
+TOTAL HARGA = RP128000,00
+
+
+MENU	JUMLAH YANG TERJUAL
+	 1 =	1
+	 2 =	3
+	 3 =	1
+	 4 =	0
+	 5 =	0
+	 6 =	1
+	 7 =	1

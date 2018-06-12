@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1455895767 source:d:\project\jurnal mod 5\main.cpp
+	"header.h"
+
+1455974473 d:\project\jurnal mod 5\header.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
+1455974450 source:d:\project\jurnal mod 5\stack.cpp
+	"header.h"
+
+1455974801 source:d:\pelajaran kampus\pj mod 5\asprak\jurnal\jurnal mod 5\main.cpp
+	"header.h"
+
+1455974473 d:\pelajaran kampus\pj mod 5\asprak\jurnal\jurnal mod 5\header.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
+1456539990 source:d:\pelajaran kampus\pj mod 5\asprak\jurnal\jurnal mod 5\stack.cpp
+	"header.h"
+

@@ -1,0 +1,5 @@
+TUGAS PENDAHULUAN
+Buatlah sebuah program dalam bahasa C yang menampilkan bilangan ganjil antara 1-10 dan lokasi memori 
+yang menyimpan bilangan tersebut.Jalankan program sebanyak 3 kali dan catat hasil keluarannya.
+Jelaskan hasil keluaran yang didapatkan, khususnya terkait perubahan dari lokasi memori dari eksekusi 
+program pertama hingga terakhir

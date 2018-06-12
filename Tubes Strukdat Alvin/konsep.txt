@@ -1,0 +1,46 @@
+program tiket bandara
+
+daftar list:					daftar prosedur:
+1. list pesawat					1. pesan tiket		6. search address_kota (kode kota) -->list kota
+2. list kota					2. lihat jadwal		7. search jadwal-rute (address asal tujuan) -->list jadwal-rute
+3. list jadwal - rute				3. lihat list kota
+						4. lihat list pesawat
+						5. berita angkasa
+
+
+list									 data program
+--------------------------------------------------------		--------------------------------------------------------
+   pesawat	|   kota	|   jadwal-rute		|		|   kota	|   pesawat				|
+--------------------------------------------------------|		|-------------------------------------------------------|
+nama pesawat	| nama kota	| address kota asal	|		|1. medan	| 1. garuda indonesia (eko+bisnis)	|
+kelas pesawat	| kode kota 	| address kota tujuan	|		|2. jakarta	| 2. lion air (eko+bisnis)		|
+next pesawat	| next bandara	| address pesawat	|		|3. jogja	| 3. air asia (eko+bisnis)		|
+		|		| jam keberangkatan	|		|4. surabaya	| 4. batik air (bisnis)			|
+		|		| jam kedatangan	|		|5. denpasar	| 5. citilink (eko)			|
+		|		| harga tiket		|		|6. balikpapan	| 6. wings air (eko)			|
+		|		| next jadwal		|		|7. banjarmasin	| 7. susi air (eko&pingky)		|
+--------------------------------------------------------|		|8. makassar	| 8. trigana air (???)			|
+									|9. mataram	| 9. srwijaya air (eko+bisnis)		|
+									|10. padang	|					|
+									|-------------------------------------------------------|
+MENU UTAMA :
+---------------------
+1. pesan tiket
+2. lihat jadwal
+3. lihat list kota
+4. lihat list pesawat
+5. berita angkasa
+6. keluar
+
+
+lihat tiket
+-------------
+lihat list kota
+input kode kota asal
+input kode kota tujuan
+
+asalX <- searching(kode kota asal)-->list kota
+tujuanX <- searchin(kode kota tujuan)-->list kota
+
+searching(rute)
+c

@@ -1,0 +1,23 @@
+
+				   =============================================
+					ATURAN PENGERJAAN TUGAS PENDAHULUAN
+				   =============================================
+
+1. Pastikan NIM anda sebelum mengerjakan Tugas Pendahuluan ini.
+
+2. Di akhir pengerjaan, tulis pernyataan berikut pada lembar jawaban:
+       +=============================================================================================+
+       | "Saya mengerjakan tugas ini dengan jujur dan tidak melakukan pelanggaran aturan dari IFLAB. |
+       |  Jika saya terbukti melanggar, maka saya bersedia menerima sanksi yang berlaku."            |
+       +=============================================================================================+
+   Jika pernyataan tidak ditulis, maka nilai tugas pendahuluan sama dengan 0 (nol).
+
+3. untuk Tugas ke-1 buatlah body atau implementasi dari file header nya!!! Untuk main() tidak perlu dibuat.
+   copy seluruh code body ke word.
+   
+
+4. Kirim file ke google drive http://bit.ly/tp-multi-list-1n dalam bentuk 1 fle word yang berisi jawaban hasil
+   tugas ke-1 dan beri nama
+   file nya NIM_NAMA. Contoh 1302140169_HasbiRabbani.
+
+5. kumpulkan sebelum tanggal 26 September 2016 Pukul 07.00 WIFLAB.

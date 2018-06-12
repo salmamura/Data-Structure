@@ -1,0 +1,10 @@
+
+				   ===========================
+					TUGAS PENDAHULUAN
+				   ===========================
+
+1. Jelaskan secara lugas yang anda ketahui tentang Conditional, Looping, Function, dan Procedure!
+
+2. Jelaskan secara lugas yang anda ketahui tentang Abstract Data Type dan bagian-bagiannya!
+
+3. Tulis algoritma (dalam bahasa C) body file dari header dan main yang telah diberikan pada file "Soal No. 3"!

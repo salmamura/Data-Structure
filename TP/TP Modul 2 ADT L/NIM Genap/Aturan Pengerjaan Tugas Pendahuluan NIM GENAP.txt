@@ -1,0 +1,26 @@
+
+				   =============================================
+					ATURAN PENGERJAAN TUGAS PENDAHULUAN
+				   =============================================
+
+1. Pastikan NIM anda adalah NIM yang bernilai GENAP sebelum mengerjakan Tugas Pendahuluan ini
+
+2. Gunakan KTP atau KTM sendiri untuk output data. [ Dilarang menggunakan identitas palsu ]
+
+3. Source code DIKETIK ke word.  
+
+4. Sertakan Screenshot program. file screenshot dalam format .png
+
+5. Dilarang mengubah file header dan main pada soal
+
+6. Di akhir pengerjaan, tulis pernyataan berikut pada lembar jawaban:
+       +=============================================================================================+
+       | "Saya mengerjakan tugas ini dengan jujur dan tidak melakukan pelanggaran aturan dari IFLAB. |
+       |  Jika saya terbukti melanggar, maka saya bersedia menerima sanksi yang berlaku."            |
+       +=============================================================================================+
+   Jika pernyataan tidak ditulis, maka nilai tugas pendahuluan sama dengan 0 (nol).
+
+7. file source dalam format .c dan .h , file word, dan file screenshot di satukan dalam sebuah FOLDER 
+   dan beri FORMAT ADT-Lanjutan_NAMA_NIM.rar
+
+8. Kirim file ke google drive bit.ly/ADT-Lanjutan sebelum tanggal 13 September 2016 Pukul 20.30.30.5 WIB 

@@ -1,0 +1,26 @@
+
+				   =============================================
+					ATURAN PENGERJAAN TUGAS PENDAHULUAN
+				   =============================================
+
+1. Pastikan NIM anda adalah NIM yang bernilai GANJIL sebelum mengerjakan Tugas Pendahuluan ini.
+
+2. Beri komen diatas #include ... pada tiap kodingan dengan menggunakan NIM dan Nama.
+
+3. Source code DIKETIK ke word.
+
+4. Sertakan Screenshot program pada word.
+
+5. Dilarang mengubah file header dan main pada soal
+
+6. Di akhir pengerjaan, tulis pernyataan berikut pada lembar jawaban:
+       +=============================================================================================+
+       | "Saya mengerjakan tugas ini dengan jujur dan tidak melakukan pelanggaran aturan dari IFLAB. |
+       |  Jika saya terbukti melanggar, maka saya bersedia menerima sanksi yang berlaku."            |
+       +=============================================================================================+
+   Jika pernyataan tidak ditulis, maka nilai tugas pendahuluan sama dengan 0 (nol).
+
+
+7. file word beri nama dengan FORMAT QUEUE_NAMA_NIM.
+
+8. Kirim file ke google drive bit.ly/TP_QUEUE sebelum tanggal 7 November 2016 Pukul 07.00 WIFLAB 
